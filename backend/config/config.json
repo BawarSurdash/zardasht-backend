@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "u6f?Jx7Z$Y",
+    "database": "zardasht_main",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },  
+  "production": {
+    "username": "admin",
+    "password": "u6f?Jx7Z$Y",
+    "database": "zardasht_main",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
