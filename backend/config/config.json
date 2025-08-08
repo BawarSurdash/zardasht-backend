@@ -1,15 +1,15 @@
 {
   "development": {
     "username": "admin",
-    "password": "u6f?Jx7Z$Y",
-    "database": "zardasht_main",
+    "password": "bawarbawar123",
+    "database": "zardashtmain",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },  
   "production": {
     "username": "admin",
-    "password": "u6f?Jx7Z$Y",
-    "database": "zardasht_main",
+    "password": "bawarbawar123",
+    "database": "zardashtmain",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
